@@ -1,2 +1,6 @@
-# leetcode
-Leetcode problems I've done till date
+LeetCode
+========
+
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
